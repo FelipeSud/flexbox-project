@@ -231,3 +231,15 @@ header .menu {
     margin-right: 5px;
 
 }
+
+footer {
+    background-color: #122a57;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    }
+
+    footer .footer {
+        justify-content: space-between;
+        color: #fff;
+    }
